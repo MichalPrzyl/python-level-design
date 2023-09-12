@@ -1,7 +1,9 @@
 # Python project design
 
-This will be probably used while creating DOOM-like game in C.
-It can add and delete nodes, considering linked list-like structure making sure lines are correct. After all it can move existing nodes, so we can create shape that we like.
+Written in python `pygame` because this is only a map editor for bigger project and that was the fastest way to go.
+
+This will be probably used as map creating tool while working on DOOM-like game in C.
+It can add and delete nodes, considering linked list-like structure making sure lines are correct. After all it can move existing nodes, so we can create shape that we like. I probably overcoded some functionality about data structures but I dove into C lately and I loved that. So I tried to recreate some of C structures in python (EVEN IF THERE IS ABSOLUTELY NO NEED FOR THAT :) )
 
 # TODO
 - [x] Adding points
