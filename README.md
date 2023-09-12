@@ -6,6 +6,7 @@ It can do only adding and deleting nodes, considering linked list-like structure
 # TODO
 - [x] Adding points
 - [x] Removing points
+- [x] Moving existing nodes
 - [x] Correct lines
 - [ ] There is certain usecase when lines are incorrect
 - [ ] Maybe multiple modes (for example. 'adding', 'removing', 'connecting') instead of different mouse clicks
